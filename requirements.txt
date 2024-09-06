@@ -1,0 +1,7 @@
+fastapi==0.113.0
+uvicorn==0.30.6
+elasticsearch==8.15.0
+pydantic==2.9.0
+pydantic-settings==2.4.0
+passlib[bcrypt]==1.7.4  # For password hashing
+python-dotenv==1.0.1    # For configuration management
